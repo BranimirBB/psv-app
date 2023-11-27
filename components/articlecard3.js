@@ -69,7 +69,7 @@ const ArticleCard3 = () => {
       backgroundColor: 'red',
       paddingVertical: 10,
       paddingHorizontal: 80,
-      borderRadius: 20,
+      borderRadius: 10,
       alignSelf: 'center', // Center button horizontally
     },
     buttonText: {
