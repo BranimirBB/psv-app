@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
     paddingTop: 30, 
     paddingBottom: 100,
   },
-  // ... other styles
 });
 
 export default HomeScreen;
